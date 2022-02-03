@@ -50,11 +50,7 @@
 							<div class="profile-thumb" style="background: url(images/yo.png);"></div>
 							<h1><span>Oscar Eduardo Benitez Martinez</span></h1>
 							<h3><span>Web personal / Estudiante</span></h3>
-							<p>
-								<ul class="fh5co-social-icons">
-									<li><a href="#"><i class="icon-twitter2"></i></a></li>
-									<li><a href="#"><i class="icon-facebook2"></i></a></li>
-								</ul>
+							
 							</p>
 						</div>
 					</div>
@@ -89,10 +85,6 @@
 					<p></p>
 					<p>
 						
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter2"></i></a></li>
-							<li><a href="#"><i class="icon-facebook3"></i></a></li>
-						</ul>
 					</p>
 				</div>
 			</div>
